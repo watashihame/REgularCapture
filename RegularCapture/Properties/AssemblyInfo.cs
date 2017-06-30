@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("WindowsFormsApplication3")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("REgularCapture")]
+[assembly: AssemblyDescription("A REgular Capture APP. Conformat your life.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WindowsFormsApplication3")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyCompany("温州中学镇守府")]
+[assembly: AssemblyProduct("REgularCapture")]
+[assembly: AssemblyCopyright("Copyright ©  2017, M_E, All Rights Reserved")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
